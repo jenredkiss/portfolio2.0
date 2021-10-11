@@ -358,6 +358,9 @@ h1{
 }
 
 /* ============= Programming Tools Section =================*/
+.pg-text-content {
+    color: white;
+}
 .pg-tools-layout{
     grid-template-columns: 1fr 1fr;
 }
