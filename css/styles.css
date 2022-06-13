@@ -115,6 +115,7 @@ body{
     font-family: var(--folio-body-font);
     font-size: var(--folio-normal-font);
     margin: 0;
+    overflow-x:hidden;
 }
 h1,h2,h3,h4,ul,p{
     margin: 0;
